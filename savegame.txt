@@ -1,0 +1,5 @@
+Cat_Knight 100 100 28 6 200 0 0 1 1 1 1 0 0 0 0 0
+3
+Golden_Slipper Weapon Legendary_close-combat_slipper 40
+Milk_Drink Potion Restores_energy_and_alertness 25
+Princess_Star Artifact Symbol_of_Pusheen's_rescue 60
